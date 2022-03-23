@@ -26,7 +26,7 @@ IF EXIST R:\Grupos\Administrativo\Recepcao\SOMABackup\%date:~6,4% (
 
 @echo By IAGO BECKEDORFF
 @echo Programa desenvolvido para SISTEMA SOMA DE TARIFACAO
-@echo dentro do escritorio LEMOS E ASSOCIADOS ADVOCACIA
+
 
 
 pause
